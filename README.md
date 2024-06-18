@@ -17,7 +17,7 @@ Earn free verified certifications with freeCodeCamp
 | **Quality Assurance Certification**              | Learn to write tests to ensure your applications work as expected. |
 | **Scientific Computing with Python (Beta) Certification** | Learn Python for scientific computing and data analysis.  |
 | **Data Analysis with Python Certification**      | Analyze data and create visualizations using Python.      |
-|[**Information Security Certification**](<Information Security Certification>)           | Learn the fundamentals of information security.           |
+|[**Information Security Certification**](<Information Security Certification/Information_security.md>)           | Learn the fundamentals of information security.           |
 | **Machine Learning with Python Certification**   | Learn machine learning with Python and popular libraries. |
 | **College Algebra with Python Certification**    | Apply Python to solve algebraic problems.                 |
 
