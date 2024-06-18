@@ -1,5 +1,3 @@
-[Information Security](https://www.freecodecamp.org/learn/information-security/)
-
 # [Information Security](https://www.freecodecamp.org/learn/information-security/)
 learning Information Security with code camp
 
@@ -10,79 +8,78 @@ learning Information Security with code camp
 - This prevents sensitive information from being shared accidentally.
 - It helps protecting your website from attacks.
 
-### 1. [Install and Require Helmet](https://www.freecodecamp.org/learn/information-security/information-security-with-helmetjs/install-and-require-helmet)
+Note: I use Gitpod to complete the tasks
+
+### ⚫ [Install and Require Helmet](https://www.freecodecamp.org/learn/information-security/information-security-with-helmetjs/install-and-require-helmet)
 
 **Solution**
 
-To ensure that your project uses Helmet version 3.21.3, you need to add or update the `package.json` file with this specific version.
+![Solution](img/day1.png)
 
-1. Open your `package.json` file.
-2. Locate the `dependencies` section.
-3. Add or update the Helmet entry to specify version 3.21.3.
+1. Open your package.json file, locate the dependencies section, and add or update the Helmet entry to specify version 3.21.3.
 
-Here is an example of how the `dependencies` section should look
+2. Submit the link.
 
-```json
-{
-  "dependencies": {
-    "helmet": "3.21.3",
-    // other dependencies
-  }
-}
-```
-
-If you need to add HelmetJS to your project, you can also use the following command in your terminal
-
-```bash
-npm install helmet@3.21.3
-```
-
-This command will install Helmet version 3.21.3 and automatically update your `package.json` file.
-
-### 2. [Hide Potentially Dangerous Information Using helmet.hidePoweredBy()](https://www.freecodecamp.org/learn/information-security/information-security-with-helmetjs/hide-potentially-dangerous-information-using-helmet-hidepoweredby)
+### ⚫ [Hide Potentially Dangerous Information Using helmet.hidePoweredBy()](https://www.freecodecamp.org/learn/information-security/information-security-with-helmetjs/hide-potentially-dangerous-information-using-helmet-hidepoweredby)
 
 **Solution**
 
-### 4. []()
+![Solution](img/day2_1.png)
+
+1. Start the project on Gitpod, and copy and paste the simple browser link
+
+2. click on submit on challenge
+
+3. Right-click to enter inspect mode, go to Network > app-info > Headers > X-Powered-By: Express. Let's solve this issue. 
+
+![Solution](img/day2_2.png)
+
+4. Add this code to hide the dangerous information.
+
+5. Run `npm run start`
+
+6. Submit the link.
+
+### ⚫ []()
 
 **Solution**
 
-### 5. []()
+### ⚫ []()
 
 **Solution**
 
-### 6. []()
+### ⚫ []()
 
 **Solution**
 
-### 7. []()
+### ⚫ []()
 
 **Solution**
 
-### 8. []()
+### ⚫ []()
 
 **Solution**
 
-### 9. []()
+### ⚫ []()
 
 **Solution**
 
-### 10. []()
+### ⚫ []()
 
 **Solution**
 
-### 11. []()
+### ⚫ []()
 
 **Solution**
 
-### 12. []()
+### ⚫ []()
 
 **Solution**
 
-### 13. []()
+### ⚫ []()
 
 **Solution**
 
-### 14. []()
+### ⚫ []()
 
 **Solution**
