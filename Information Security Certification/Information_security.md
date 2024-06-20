@@ -40,11 +40,11 @@ Note: I use Gitpod to complete the tasks
 
 6. Submit the link.
 
-### ⚫ []()
+### ⚫ [Mitigate the Risk of Clickjacking with helmet.frameguard()](https://www.freecodecamp.org/learn/information-security/information-security-with-helmetjs/mitigate-the-risk-of-clickjacking-with-helmet-frameguard)
 
 **Solution**
 
-### ⚫ []()
+### ⚫ [Mitigate the Risk of Cross Site Scripting (XSS) Attacks with helmet.xssFilter()](https://www.freecodecamp.org/learn/information-security/information-security-with-helmetjs/mitigate-the-risk-of-cross-site-scripting-xss-attacks-with-helmet-xssfilter)
 
 **Solution**
 
