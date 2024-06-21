@@ -48,7 +48,7 @@ Note: I use Gitpod to complete the tasks
 
 **Solution**
 
-### ⚫ []()
+### ⚫ [Avoid Inferring the Response MIME Type with helmet.noSniff()](https://www.freecodecamp.org/learn/information-security/information-security-with-helmetjs/avoid-inferring-the-response-mime-type-with-helmet-nosniff)
 
 **Solution**
 
