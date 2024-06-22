@@ -52,7 +52,7 @@ Note: I use Gitpod to complete the tasks
 
 **Solution**
 
-### ⚫ []()
+### ⚫ [Prevent IE from Opening Untrusted HTML with helmet.ieNoOpen()](https://www.freecodecamp.org/learn/information-security/information-security-with-helmetjs/prevent-ie-from-opening-untrusted-html-with-helmet-ienoopen)
 
 **Solution**
 
