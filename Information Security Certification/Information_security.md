@@ -56,7 +56,7 @@ Note: I use Gitpod to complete the tasks
 
 **Solution**
 
-### ⚫ []()
+### ⚫ [Ask Browsers to Access Your Site via HTTPS Only with helmet.hsts()](https://www.freecodecamp.org/learn/information-security/information-security-with-helmetjs/ask-browsers-to-access-your-site-via-https-only-with-helmet-hsts)
 
 **Solution**
 
