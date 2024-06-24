@@ -60,7 +60,7 @@ Note: I use Gitpod to complete the tasks
 
 **Solution**
 
-### ⚫ []()
+### ⚫ [Disable DNS Prefetching with helmet.dnsPrefetchControl()](https://www.freecodecamp.org/learn/information-security/information-security-with-helmetjs/disable-dns-prefetching-with-helmet-dnsprefetchcontrol)
 
 **Solution**
 
