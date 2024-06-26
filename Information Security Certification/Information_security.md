@@ -68,7 +68,7 @@ Note: I use Gitpod to complete the tasks
 
 **Solution**
 
-### ⚫ []()
+### ⚫ [Set a Content Security Policy with helmet.contentSecurityPolicy()](https://www.freecodecamp.org/learn/information-security/information-security-with-helmetjs/set-a-content-security-policy-with-helmet-contentsecuritypolicy)
 
 **Solution**
 
