@@ -76,7 +76,6 @@ Note: I use Gitpod to complete the tasks
 
 **Solution**
 
-### ⚫ []()
 
 **Solution**
 
