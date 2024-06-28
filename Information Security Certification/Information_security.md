@@ -76,6 +76,7 @@ Note: I use Gitpod to complete the tasks
 
 **Solution**
 
+### ⚫ [Understand BCrypt Hashes](https://www.freecodecamp.org/learn/information-security/information-security-with-helmetjs/understand-bcrypt-hashes)
 
 **Solution**
 
