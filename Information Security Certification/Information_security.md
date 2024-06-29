@@ -80,6 +80,6 @@ Note: I use Gitpod to complete the tasks
 
 **Solution**
 
-### ⚫ []()
+### ⚫ [Hash and Compare Passwords Asynchronously](https://www.freecodecamp.org/learn/information-security/information-security-with-helmetjs/hash-and-compare-passwords-asynchronously)
 
 **Solution**
