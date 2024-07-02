@@ -92,6 +92,18 @@ Note: I use Gitpod to complete the tasks
 # Python for Penetration Testing
 
 
-### ⚫ [Intodection and setup]()
+### ⚫ [Intodection and setup](https://www.freecodecamp.org/learn/information-security/python-for-penetration-testing/introduction-and-setup)
 
 **Solution**
+
+What code editor and extension does the instructor recommend for developing penetration testing tools in Python?
+
+- VSCode and Microsoft's Python extension.
+
+### ⚫ [Understanding Sockets and Creating a TCP Server](https://www.freecodecamp.org/learn/information-security/python-for-penetration-testing/understanding-sockets-and-creating-a-tcp-server)
+
+**Solution**
+
+Which of the following functions creates a socket object?
+
+- socket.socket(socket.AF_INET, socket.SOCK_STREAM)
