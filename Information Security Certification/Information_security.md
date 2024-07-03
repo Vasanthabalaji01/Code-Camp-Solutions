@@ -107,3 +107,12 @@ What code editor and extension does the instructor recommend for developing pene
 Which of the following functions creates a socket object?
 
 - socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+
+### ⚫ [Creating a TCP Client](https://www.freecodecamp.org/learn/information-security/python-for-penetration-testing/creating-a-tcp-client)
+
+**Solution**
+
+Which socket object method lets you set the maximum amount of data your client accepts at once?
+
+- .recv(1024)
+
