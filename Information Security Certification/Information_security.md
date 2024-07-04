@@ -116,3 +116,22 @@ Which socket object method lets you set the maximum amount of data your client a
 
 - .recv(1024)
 
+### ⚫ [Developing an Nmap Scanner part 1](https://www.freecodecamp.org/learn/information-security/python-for-penetration-testing/developing-an-nmap-scanner-part-1)
+
+**Solution**
+
+What is the correct command to install the Python 3 version of the python-nmap library?
+
+pip3 install python-nmap
+
+### ⚫ []()
+
+**Solution**
+
+### ⚫ []()
+
+**Solution**
+
+### ⚫ []()
+
+**Solution**
