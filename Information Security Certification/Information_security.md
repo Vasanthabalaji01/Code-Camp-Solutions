@@ -124,9 +124,14 @@ What is the correct command to install the Python 3 version of the python-nmap l
 
 pip3 install python-nmap
 
-### ⚫ []()
+### ⚫ [Developing an Nmap Scanner part 2](https://www.freecodecamp.org/learn/information-security/python-for-penetration-testing/developing-an-nmap-scanner-part-2)
 
 **Solution**
+
+Which of the following allows you to scan for UDP ports between 21 to 443?
+
+
+.scan(ip_addr, '21-443', '-v -sU')
 
 ### ⚫ []()
 
