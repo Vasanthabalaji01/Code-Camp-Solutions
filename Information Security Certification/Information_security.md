@@ -133,9 +133,16 @@ Which of the following allows you to scan for UDP ports between 21 to 443?
 
 .scan(ip_addr, '21-443', '-v -sU')
 
-### ⚫ []()
+### ⚫ [Developing a Banner Grabber](https://www.freecodecamp.org/learn/information-security/python-for-penetration-testing/developing-a-banner-grabber)
 
 **Solution**
+
+Fill in the blanks to complete the banner function below:
+
+def banner(ip, port):
+    s = socket.socket()
+    s.__A__((ip, __B__))
+    print(s.recv(1024))
 
 ### ⚫ []()
 
