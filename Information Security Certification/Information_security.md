@@ -144,6 +144,19 @@ def banner(ip, port):
     s.__A__((ip, __B__))
     print(s.recv(1024))
 
+A: connect
+B: int(port)
+
+### ⚫ [Developing a Port Scanner](https://www.freecodecamp.org/learn/information-security/python-for-penetration-testing/developing-a-port-scanner)
+
+**Solution**
+
+What is the main difference between the .connect() and .connect_ex() methods?
+
+If there is an error or if no host is found, .connect() raises an exception while .connect_ex() returns an error code.
+
+
+
 ### ⚫ []()
 
 **Solution**
