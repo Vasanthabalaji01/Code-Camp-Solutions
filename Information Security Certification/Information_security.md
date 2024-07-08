@@ -156,7 +156,10 @@ What is the main difference between the .connect() and .connect_ex() methods?
 If there is an error or if no host is found, .connect() raises an exception while .connect_ex() returns an error code.
 
 
+Information Security Projects
 
-### ⚫ []()
+### ⚫ [Stock Price Checker](https://www.freecodecamp.org/learn/information-security/information-security-projects/stock-price-checker)
 
 **Solution**
+
+4
