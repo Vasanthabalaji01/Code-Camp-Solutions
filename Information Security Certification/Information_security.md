@@ -162,4 +162,10 @@ Information Security Projects
 
 **Solution**
 
-4
+### ⚫ [Anonymous Message Board](https://www.freecodecamp.org/learn/information-security/information-security-projects/anonymous-message-board)
+
+**Solution**
+
+### ⚫ [Port Scanner](https://www.freecodecamp.org/learn/information-security/information-security-projects/port-scanner)
+
+**Solution**
